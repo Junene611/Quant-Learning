@@ -1,0 +1,13 @@
+# 项目依赖库
+
+# 核心依赖
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.5.0
+akshare>=1.18.0
+
+# 标准库（无需单独安装）
+# webbrowser (标准库)
+# time (标准库)
+# os (标准库)
+# tempfile (标准库)
